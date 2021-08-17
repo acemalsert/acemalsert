@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: acemalsert@gmail.com
-
+<br>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acemalsert&show_icons=true&theme=radical)
 <br>
 <br>
