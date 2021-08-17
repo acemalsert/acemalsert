@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: acemalsert@gmail.com
-- 
+
 <br>
 <br>
 
