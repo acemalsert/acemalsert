@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<div style= text-align=center>
+<div style= text-align:center>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acemalsert&show_icons=true&theme=radical)
   
