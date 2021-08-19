@@ -13,7 +13,9 @@
 </div>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acemalsert)](https://github.com/acemalsert/github-readme-stats)
 
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acemalsert)](https://github.com/acemalsert/github-readme-stats)
+</div>
 
 
