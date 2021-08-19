@@ -11,8 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acemalsert&show_icons=true&theme=radical)
   
 </div>
-<br>
-<br>
+
 
 <div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acemalsert)](https://github.com/acemalsert/github-readme-stats)
