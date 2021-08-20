@@ -1,4 +1,4 @@
-### Hi there 👋
+                                                ### Hi there 👋
 
 - I am studying Computer Engineering, and Management as secondary field at Ted University. 
 - 🌱 I’m currently learning React.
