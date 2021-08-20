@@ -5,9 +5,8 @@
 
 <br>
 
-<div style = "text-align: center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acemalsert&show_icons=true&theme=radical)
-<div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acemalsert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
