@@ -1,8 +1,8 @@
                                                 ### Hi there 👋
 
-- I am studying Computer Engineering, and Management as secondary field at Ted University. 
-- 🌱 I’m currently learning React.
-- 📫 How to reach me: acemalsert@gmail.com
+      - I am studying Computer Engineering, and Management as secondary field at Ted University. 
+      - 🌱 I’m currently learning React.
+      - 📫 How to reach me: acemalsert@gmail.com
 
 <br>
 
