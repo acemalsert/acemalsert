@@ -1,5 +1,6 @@
                                                     Hi there 👋
 - I am studying Computer Engineering, and Management as secondary field at Ted University. 
+- I am interested in Java, C, Javascript, Spring Boot, Bootstrap, PostgreSQL, MySQL, HTML5, CSS3, XML, Python and OpenCV. 
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: acemalsert@gmail.com
 
