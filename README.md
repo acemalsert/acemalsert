@@ -5,7 +5,7 @@
 - Frameworks that I use are : React, Spring Boot, Bootstrap and OpenCV. 
 - Markup Languages : HTML5, CSS3 and XML
 - Databases : PostgreSQL and MySQL
-- 📫 How to reach me: acemalsert@gmail.com
+- How to reach me: acemalsert@gmail.com
 
 <br>
 
