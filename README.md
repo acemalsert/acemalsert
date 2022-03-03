@@ -1,10 +1,10 @@
                                                     Hi there 👋
 - I am studying Computer Engineering, and Management as secondary field at Ted University. 
 - I am interested in web development.
-- Programming languages that I know are : Java, Javascript, C, familiarity with Python 
-- Frameworks that I use are : React.js, Express.js, Node.js, Bootstrap, Spring Boot
+- Programming languages that I know are : Java, C#, Javascript, C, familiarity with Python 
+- Frameworks that I use are : React.js, Express.js, Node.js, Bootstrap, ASP.NET, Spring Boot
 - Markup Languages : HTML5, CSS3 and XML
-- Databases : PostgreSQL, MySQL and MongoDB
+- Databases : PostgreSQL, MySQL, Microsoft SQL Server and MongoDB
 - How to reach me: acemalsert@gmail.com
 
 <br>
