@@ -1,11 +1,23 @@
                                                     Hi there 👋
-- I am graduated from Ted University Computer Engineering department. 
-- I am interested in web development.
-- Programming languages that I know are : Java, C#, Javascript, C, familiarity with Python 
-- Frameworks that I use are : .NET framework, AngularJS, React.js, Express.js, Node.js, Bootstrap, Spring Boot
-- Markup Languages : HTML5, CSS3 and XML
-- Databases : PostgreSQL, MySQL, Microsoft SQL Server and MongoDB
-- How to reach me: acemalsert@gmail.com
+About Me
+● Bachelors degree in Computer Engineering
+● Masters degree in Software Engineering - in progress
+● Over 1.5 year of experience in Software Development
+● Strong background in SOLID and OOP 
+● Professional communication skills
+● Professional team member 
+● Worked in an Agile Team
+
+Computer Skills Include
+● Mostly Microsoft Tech such as C#, Asp.Net MVC, WebApi, Entity Framework
+● Azure Cloud & Devops
+● Frontend technologies such as HTML, CSS, SCSS, JS, Bootstrap, jQuery and AngularJS
+● Relational and no sql databases such as SQL Server and CosmosDB 
+● Redis & ElasticSearch
+● Web Services
+● Participated in QA Team 
+● Automation with Selenium
+● Versioning with GIT
 
 <br>
 
