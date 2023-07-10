@@ -1,7 +1,7 @@
                                                     Hi there 👋
 About Me
-● Bachelors degree in Computer Engineering
-● Masters degree in Software Engineering - in progress
+● Bachelors degree in Computer Engineering <br>
+● Masters degree in Software Engineering - in progress <br>
 ● Over 1.5 year of experience in Software Development
 ● Strong background in SOLID and OOP 
 ● Professional communication skills
