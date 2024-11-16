@@ -1,5 +1,5 @@
                                                        Hi there 👋
-I am a highly motivated Software Engineer with a Master’s degree in Software Engineering and a Bachelor's degree in Computer Engineering. With over 2.5 years of hands-on experience in the SaaS and GIS markets, 
+I am a highly motivated Software Engineer with a Master’s degree in Software Engineering and a Bachelor's degree in Computer Engineering. With 3 years of hands-on experience in the SaaS and GIS markets, 
 I have developed my ability to develop robust, scalable solutions tailored to industry needs. My expertise centers on applying SOLID principles and Object-Oriented Programming to build maintainable and efficient systems. 
 I thrive in Agile development environments, where adaptability and iterative progress drive success. With strong communication skills and a professional demeanor, I am an effective collaborator who consistently contributes 
 meaningfully to team projects. Passionate about leveraging cutting-edge technology to solve complex challenges, I am committed to continuous growth and bringing innovative solutions to the table. 
